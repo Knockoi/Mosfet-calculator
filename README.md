@@ -12,7 +12,8 @@ A simple and easy-to-use tool for quickly selecting the right MOSFET.
 
 
 # How to use    
-
+-1 Go to [releases](https://github.com/Knockoi/Mosfet-calculator/releases) download the latest  
+-2 op .py file and wa la!!  
 
 
 > [!IMPORTANT]
