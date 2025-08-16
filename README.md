@@ -4,6 +4,9 @@
 
 [![](https://img.shields.io/discord/1226517355421634601?logo=discord&logoColor=white&color=5865F2)](https://discord.gg/Tf3PsfkTJF)
 [![](https://img.shields.io/badge/License-MIT-FFA500.svg?logo=mit&logoColor=white)](https://opensource.org/licenses/MIT)
+[![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
 
 
 </div>  
