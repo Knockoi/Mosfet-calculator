@@ -13,7 +13,7 @@ A simple and easy-to-use tool for quickly selecting the right MOSFET.
 
 # How to use    
 1. Install [Python](https://www.python.org/downloads/)   
-2.Install pywebio and pywebview
+2. Install pywebio and pywebview
 
 ```
 python -m pip install --upgrade pip
