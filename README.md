@@ -12,7 +12,7 @@ A simple and easy-to-use tool for quickly selecting the right MOSFET.
 
 
 # How to use    
-1. Install [Python](https://www.python.org/downloads/) 
+1. Install [Python](https://www.python.org/downloads/)   
 2.Install pywebio and pywebview
 
 ```
@@ -20,7 +20,6 @@ python -m pip install --upgrade pip
 ```
 ```
 pip3 install pywebio pywebview
-
 ```  
 3. Go to [releases](https://github.com/Knockoi/Mosfet-calculator/releases) download the latest  .py file.
 4. open .py file and wa la!!  
