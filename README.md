@@ -14,7 +14,8 @@ A simple and easy-to-use tool for quickly selecting the right MOSFET.
 # How to use    
 1. Install [Python](https://www.python.org/downloads/) 
 > [!WARNING]
-> Requires Python 3.6 or higher  
+> Requires Python 3.6 or higher
+  
 2.Install pywebio and pywebview
 
 ```
