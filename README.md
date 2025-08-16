@@ -6,10 +6,10 @@
 [![](https://img.shields.io/badge/License-GPLv3-FFA500.svg?logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0)
 
 </div>  
-<p style="text-align: center;">  
+<div align="center">
 A simple and easy-to-use tool for quickly selecting the right MOSFET.  
-</p>  
-# How to use  
+</div>  
+# How to use    
 
 
 
